@@ -11,6 +11,7 @@ now avaliable:
 
 TODO:
 * Image FFT
+* Fix display problem with huge pic.
 
 ## Install
 If you only need excutable file, search for \*.jar.
