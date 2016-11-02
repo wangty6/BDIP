@@ -8,7 +8,9 @@ now avaliable:
 * Quantization
 * Historgram Equalization
 * Space Filter by Convolution
+
 TODO:
 * Image FFT
+
 ## Install
 If you only need excutable file, search for \*.jar.
