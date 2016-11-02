@@ -1,5 +1,4 @@
 # Basic Digital Image Processor
----
 ## Intro
 A naive image processor build for DIP course in 2016-2017 semester.
 ## Function
